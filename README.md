@@ -52,15 +52,22 @@ Using:
 
 DCF Formula:
 
-\[
-PV = \frac{FCF}{(1+r)^t}
-\]
+PV = FCF / (1 + r)^t
+
+Where:
+- PV = Present Value
+- FCF = Free Cash Flow
+- r = Required Return (WACC)
+- t = Time Period
 
 ### 4. Calculate Terminal Value
 
-\[
-TV = \frac{FCF \times (1+g)}{WACC-g}
-\]
+TV = FCFE * (1 + g) / (WACC - g)
+
+Where:
+- TV = Terminal Value
+- FCFE = Free Cash Flow Equity
+- g = Perpetual Growth
 
 ---
 
@@ -127,3 +134,9 @@ Through this project, I practiced:
 # Disclaimer
 
 This project is for educational and portfolio purposes only and should not be considered investment advice.
+
+---
+
+## Model Preview
+
+![DCF Model](DCF_Model_Screenshot.png)
