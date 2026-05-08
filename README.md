@@ -139,4 +139,4 @@ This project is for educational and portfolio purposes only and should not be co
 
 ## Model Preview
 
-![DCF Model](DCF_Model_Screenshot.png)
+![DCF Model](DCF_Model_Screenshot.jpg)
